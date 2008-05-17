@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Thread-Queue
-version:             2.07
+version:             2.08
 abstract:            Thread-safe queues
 license:             perl
 author:              
@@ -11,7 +11,7 @@ requires:
     Scalar::Util:                  1.1
     Test::More:                    0.5
     Thread::Semaphore:             0
-    threads::shared:               0.96
+    threads::shared:               1.21
 meta-spec:
     url:     http://module-build.sourceforge.net/META-spec-v1.3.html
     version: 1.3
