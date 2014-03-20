@@ -22,4 +22,4 @@ requires:
   Test::More: '0.5'
   Thread::Semaphore: '0'
   threads::shared: '1.21'
-version: '3.04'
+version: '3.05'
